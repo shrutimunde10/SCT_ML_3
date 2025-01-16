@@ -18,4 +18,4 @@ The dataset should consist of two folders:
 - Generates predictions for unseen images.
 
 ## Acknowledgments
-This project was inspired by Kaggle’s Cats vs. Dogs dataset and demonstrates the power of SVMs for image classification tasks.
+This project was inspired by Kaggle’s Cats vs. Dogs dataset and demonstrates the power of SVMs for the image classification tasks.
